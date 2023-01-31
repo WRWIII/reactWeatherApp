@@ -1,0 +1,48 @@
+/AppData/
+/Desktop/
+/IntelGraphicsProfiles/
+/NTUSER.DAT
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+/OneDrive/
+/.vscode/
+/2023_desk/
+/3D Objects/
+/Contacts/
+/Documents/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/Saved Games/
+/Searches/
+/Videos/
+/assignment-1-WRWIII/
+/source/
+/ntuser.dat.LOG1/
+/ntuser.dat.LOG2/
+/.gitignore/
+
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
